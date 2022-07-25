@@ -11,7 +11,9 @@ const Home: NextPage = () => {
         <meta name="description" content="vtu-app-home" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <div>
+        <h1 className=''>Hello world</h1>
+      </div>
     </div>
   )
 }
